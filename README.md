@@ -3,10 +3,9 @@
 
 ### 后台页面展示
 
-![](https://gitee.com/it-1024/fangke-tongji/raw/master/111.png "后台管理页")
+![](https://s2.loli.net/2022/07/30/jwhRoPEcxGBudma.png "后台管理页")
 
-![](https://gitee.com/it-1024/fangke-tongji/raw/master/222.png "后台管理页")
-
+![](https://s2.loli.net/2022/07/30/Xnl7Yepwq4o1RPh.png "后台管理页")
 
 
 
